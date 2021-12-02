@@ -12,7 +12,7 @@ Just Add me to Your Group As Admin, Hit The Help Button For More Info..</b>"""
 <b>Here Is The Help For My Commands.</b>"""
 
     ABOUT_TXT = """<b>➥ My name: {}
-➥ Creator: Zaute Km
+➥ Creator: ugendar v
 ➥ Library: Pyrogram
 ➥ Language: Python 𝟹
 ➥ Data Base: MongoDB
@@ -21,7 +21,7 @@ Just Add me to Your Group As Admin, Hit The Help Button For More Info..</b>"""
 
     SOURCE_TXT = """<b>Source:</b>
 IMDb is a Open source project.
-Source: <a href='https://github.com/josprojects/tgmoviebot'>GitHub - Click here 👈</a>
+Source: <a href='https://github.com/Ugendarv/ugendar-x'>GitHub - Click here 👈</a>
 
 <b>DEVS:</b>
 - <a href='https://t.me/josprojects'>Jos Projects</a>
